@@ -1,7 +1,10 @@
 This is from the andela bootcamp projects pdf. 
-the it contains two files. attendance_register.py which contains code representing the requirements below and test_attendance_register.py which represents the tests to ensure code from attendance register works.
+It contains two files. 
+1.)attendance_register.py which contains code representing the requirements below and 
+2.)test_attendance_register.py which represents the tests to ensure code from attendance register works.
+
 Application Requirements:
-1. Class Attendance Register
+Class Attendance Register
 ■The class attendance register is used to check-in students when they come into
 class. To be able to do this, we need to have the following commands.
 ■check in <student_id> <class_id>​ - Checks in a student into a class
